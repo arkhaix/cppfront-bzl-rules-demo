@@ -1,0 +1,9 @@
+[submodule "third_party/cppfront-bzl-rules"]
+	path = third_party/cppfront-bzl-rules
+	url = https://github.com/jray272/cppfront-bzl-rules
+[submodule "third_party/bazel-skylib"]
+	path = third_party/bazel-skylib
+	url = https://github.com/bazelbuild/bazel-skylib
+[submodule "third_party/cppfront"]
+	path = third_party/cppfront
+	url = https://github.com/hsutter/cppfront
