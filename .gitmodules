@@ -1,6 +1,6 @@
 [submodule "third_party/cppfront-bzl-rules"]
 	path = third_party/cppfront-bzl-rules
-	url = file:///C/Users/aj/github.com/arkhaix/cppfront-bzl-rules
+	url = https://github.com/arkhaix/cppfront-bzl-rules
 [submodule "third_party/bazel-skylib"]
 	path = third_party/bazel-skylib
 	url = https://github.com/bazelbuild/bazel-skylib
